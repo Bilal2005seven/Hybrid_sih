@@ -58,5 +58,11 @@ By combining **geolocation-based soil and climate data** with a **machine learni
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/kisanone.git
-cd kisanone
+1) git clone https://github.com/<your-username>/kisanone.git
+2) cd kisanone
+3) pip install -r requirements.txt
+4) REDIS_URL=your_upstash_redis_url
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_KEY=your_supabase_key
+5)python .\agent.py\
+
