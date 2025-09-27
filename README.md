@@ -56,7 +56,7 @@ By combining **geolocation-based soil and climate data** with a **machine learni
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+
 ```bash
 1) git clone https://github.com/<your-username>/kisanone.git
 2) cd kisanone
